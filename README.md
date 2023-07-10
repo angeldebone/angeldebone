@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with Mainframes, C
 - 💬 Ask me about Cyber Security, Pentest
 - 📫 How to reach me: @angeldebone
-- 😄 Pronouns: Angel
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Horology
 
