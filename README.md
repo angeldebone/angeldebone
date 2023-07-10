@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Python or Bash scripts (for now)
 - 🤔 I’m looking for help with Mainframes, C
 - 💬 Ask me about Cyber Security, Pentest
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: @angeldebone
+- 😄 Pronouns: Angel
+- ⚡ Fun fact: Horology
 
