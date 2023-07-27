@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Horology
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldebone&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldebone&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldebone&show_icons=true&theme=dracula) 
